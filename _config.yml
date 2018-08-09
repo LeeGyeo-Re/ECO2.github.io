@@ -3,7 +3,7 @@ email:             your-email@example.com
 description:       A Blog Theme by Start Bootstrap
 author:            Start Bootstrap
 baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+url:               "https://ECO2.github.io
 
 # Social Profiles
 twitter_username:  SBootstrap
@@ -20,5 +20,5 @@ plugins:
   
 remote_theme : BlackrockDigital/startbootstrap-clean-blog-jekyll
 
-url                      : "https://ECO2.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+
+
